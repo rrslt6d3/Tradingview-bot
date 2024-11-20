@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+logs/
+
+# Ignore virtual environment directories
+trading_env/
+
+# Ignore environment variable files
+*.env
